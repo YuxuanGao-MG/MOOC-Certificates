@@ -6,3 +6,4 @@ All courses finished with 100% grade
 4. Introduction to Programming with MATLAB - https://www.coursera.org/account/accomplishments/records/VJ28R9QWCVF7
 5. IA para todos (AI for Everyone in Español) - https://www.coursera.org/account/accomplishments/records/4XFYJB2LKRLL
 6. Introduction to Cloud Identity - https://www.coursera.org/account/accomplishments/records/S5GHJBTA6CKK
+7. Fundamentals of Engineering Exam Review - https://www.coursera.org/account/accomplishments/records/N9UH36RRBT6C
