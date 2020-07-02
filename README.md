@@ -1,7 +1,7 @@
 # MOOC-Certificates
 All courses finished with 100% grade
 
-Note: courses and specializations showcased on LinkedIn profile are not included in this repository
+Note: certificates of courses and specializations showcased on LinkedIn profile are not included in this repository
 
 LinkedIn Page: https://www.linkedin.com/in/michaelgyx/
 
