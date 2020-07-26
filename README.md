@@ -12,6 +12,7 @@ College-level Courses
 4. Introduction to Programming with MATLAB - https://www.coursera.org/account/accomplishments/records/VJ28R9QWCVF7
 5. Fundamentals of Engineering Exam Review - https://www.coursera.org/account/accomplishments/records/N9UH36RRBT6C
 6. Matrix Algebra for Engineers - https://www.coursera.org/account/accomplishments/records/PQN86BTQ63PT
+7. Vector Calculus for Engineers - https://www.coursera.org/account/accomplishments/records/PZMBDEJKZNY7
 
 Professional Courses
 1. Getting Started with AWS Machine Learning - https://www.coursera.org/account/accomplishments/records/5UGPY6RF7ZLZ
